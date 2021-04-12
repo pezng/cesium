@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  cesium: {
+    accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwYmE3OGM4MC0zNDA0LTRhYWQtODM5MS03NmYzOWQ0Mjc5NjMiLCJpZCI6NDU1NjUsImlhdCI6MTYxNTQ3ODY1N30.PjzzwTrxoOVoAFoHR3BooRbDpsWSF9_6o9tC8dbxFsE'
+  }
 };
 
 /*
